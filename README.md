@@ -7,3 +7,6 @@ et se connecte sur My BeCode pour pointer et enfin sur un channel vocal
 de Discord
 
 Ensuite Nico prend la parole pour nous expliquer ce qu'il va se passer pendant la matinée.
+
+Puis chaque apprenant va a son rythme, et si on va trop vite, on aide alors ces petits camarade de classe.
+  
