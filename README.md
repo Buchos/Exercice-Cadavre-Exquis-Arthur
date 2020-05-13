@@ -1,1 +1,2 @@
 # Un matin normal chez BeCode
+Commence par un google meet (super pour prendre son petit-déjeuner en toute discrétion), et est en suite suivi d'un certain nombre d'exercices à réaliser avant la pause de midi. Voilà une matinée typique pour le moment.
