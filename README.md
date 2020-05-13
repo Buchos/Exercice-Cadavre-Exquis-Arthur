@@ -9,3 +9,5 @@ de Discord
 Ensuite Nico prend la parole pour nous expliquer ce qu'il va se passer pendant la matinée. 
 
 Il présente tout ce qu'on peut faire grâce à git.
+
+Ensuit il nous insite a travailler ensemble
