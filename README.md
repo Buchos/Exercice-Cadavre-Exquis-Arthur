@@ -7,3 +7,6 @@ et se connecte sur My BeCode pour pointer et enfin sur un channel vocal
 de Discord
 
 Ensuite Nico prend la parole pour nous expliquer ce qu'il va se passer pendant la matinée.
+ensuite on commence a 
+travailler sur ce que 
+Nico nous a demander
