@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Un matin normal chez BeCode
 =======
 # Un matin normal chez BeCode 
@@ -14,4 +13,3 @@ Ensuite Nico prend la parole pour nous expliquer ce qu'il va se passer pendant l
 Il présente tout ce qu'on peut faire grâce à git.
 
 Ensuit il nous insite a travailler ensemble
->>>>>>> origin/developpement
